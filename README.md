@@ -1,18 +1,21 @@
 # Amazon Clone Page For Web Users
 
-This project is an Amazon clone web page.
+A clone of the Amazon website for practicing web development skills.
 You Can see this in your laptop or desktop site.
 
-## Technologies Used
+## Technologies Used :
 
 - HTML: Used for the structure of web pages.
 - CSS: Used for styling the web pages.
 
-## Acknowledgements
+## Acknowledgements :
 
 I would like to express my gratitude to Shraddha Ma'am and the "Apna College" YouTube channel for their invaluable tutorials on building web page of Amazon clone. The step-by-step guidance provided in their videos was instrumental in understanding the concepts and implementing various features of Amazon clone web page.
+
+## Link :
+url: https://omfaye.github.io/Amazon_Page_Clone/
   
-## Screenshots
+## Screenshots :
 
 <img width="959" alt="header" src="https://github.com/omfaye/Amazon_Page_Clone/assets/138499643/24309ba9-a5e1-4d76-a71c-d4a26ee293fb">
 
